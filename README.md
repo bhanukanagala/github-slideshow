@@ -4,7 +4,7 @@
 
 Build | Code Coverage | Code Quality | Unity | Git Inspector
 |---------|------------|------------|-----------|----------------
-
+[![C/C++ CI - Build Status](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
