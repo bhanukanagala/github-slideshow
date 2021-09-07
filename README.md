@@ -4,7 +4,7 @@
 
 Build | Code Coverage | Code Quality | Unity | Git Inspector
 |---------|------------|------------|-----------|----------------
-[![C/C++ CI - Build Status](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml)
+[![C/C++ CI - Build Status](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml)|[![CI-Coverage](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gcov.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gcov.yml)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
