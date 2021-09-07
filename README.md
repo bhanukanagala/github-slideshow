@@ -4,7 +4,7 @@
 
 Build | Code Coverage | Code Quality | Unity | Git Inspector
 |---------|------------|------------|-----------|----------------
-[![C/C++ CI - Build Status](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml)|[![CI-Coverage](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gcov.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gcov.yml)|[![Contribution Check - Git Inspector](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gitinspector.yml)
+[![C/C++ CI - Build Status](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/c-cpp.yml)|[![CI-Coverage](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gcov.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gcov.yml)|[![Contribution Check - Git Inspector](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/gitinspector.yml)|[![Unit Testing - Unity](https://github.com/bhanukanagala/github-slideshow/actions/workflows/unity.yml/badge.svg)](https://github.com/bhanukanagala/github-slideshow/actions/workflows/unity.yml)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
